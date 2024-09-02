@@ -1,1 +1,1 @@
-# -Securing-Cloud-Honeynets-with-Azure-SIEM-Sentinel-and-SOC-Strategies-Enhancing-Security-Posture-
+# Azure SIEM (Sentinel) and SOC-Based Strategies for a Secure Cloud Honeynet: Optimising and Hardening Cloud Security Posture: 
