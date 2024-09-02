@@ -1,0 +1,1 @@
+# -Securing-Cloud-Honeynets-with-Azure-SIEM-Sentinel-and-SOC-Strategies-Enhancing-Security-Posture-
